@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/Catkeeper/static/js/runtime~main.4be56430.js"
   },
   {
-    "revision": "bf5dc1a0670e86f19dac",
-    "url": "/Catkeeper/static/js/main.bf5dc1a0.chunk.js"
+    "revision": "367b67ef2daac5a8e8e1",
+    "url": "/Catkeeper/static/js/main.367b67ef.chunk.js"
   },
   {
     "revision": "7dde4d61e9a1085e4f4f",
     "url": "/Catkeeper/static/js/1.7dde4d61.chunk.js"
   },
   {
-    "revision": "bf5dc1a0670e86f19dac",
-    "url": "/Catkeeper/static/css/main.d47e70cb.chunk.css"
+    "revision": "367b67ef2daac5a8e8e1",
+    "url": "/Catkeeper/static/css/main.c152ce70.chunk.css"
   },
   {
-    "revision": "b54ea344b64db7c7be224e34c00f35a7",
+    "revision": "1c456a43f311e1943508b878e414f927",
     "url": "/Catkeeper/index.html"
   }
 ];
