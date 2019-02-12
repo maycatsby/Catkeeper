@@ -1,0 +1,55 @@
+.player-card {
+  width: 50%;
+  height: 100vh;
+  /* Background pattern from Toptal Subtle Patterns */
+  background-image: url(../img/brickwall/brickwall.png);
+  background-blend-mode: multiply;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+}
+
+.player-card__active {
+  position: absolute;
+  top: 50%;
+  width: 7%;
+  height: 20%;
+  background-color: rgba(0, 0, 0, 0.788);
+  transform: translate(0%, -50%);
+  z-index: 2000;
+}
+.player-card__active--1 {
+  right: 0;
+  clip-path: polygon(100% 0, 0 50%, 100% 100%);
+}
+.player-card__active--2 {
+  left: 0;
+  clip-path: polygon(0 0, 100% 50%, 0 100%);
+}
+
+.player-card h3 {
+  letter-spacing: 3px;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+.player-card__score {
+  font-weight: 100;
+  padding: 5px;
+  margin: 0 auto;
+}
+.player-card__content {
+  width: 90%;
+}
+.player-card__buttons {
+  position: absolute;
+  bottom: 2%;
+  right: 40%;
+}
+.clearfix::after {
+  content: "";
+  height: 0;
+  display: table;
+  clear: both;
+}
