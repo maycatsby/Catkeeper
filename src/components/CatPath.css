@@ -50,7 +50,7 @@
   border: 1px solid rgba(211, 129, 188, 0.801);
   width: 18px;
   height: 18px;
-  background-image: url(../img/_ionicons_svg_md-paw.svg);
+  background-image: url("../img/_ionicons_svg_md-paw.svg");
   background-size: cover;
   background-color: rgba(231, 230, 231, 0.479);
   transform: rotate(180deg);
