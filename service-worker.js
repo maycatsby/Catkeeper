@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Catkeeper/precache-manifest.2ca036ce2234a712e1e8194f4222785f.js"
+  "/Catkeeper/precache-manifest.db1c0960e054db2454e39ec91586e0e6.js"
 );
 
 workbox.clientsClaim();
