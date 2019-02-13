@@ -1,15 +1,14 @@
 {
-  "main.css": "/Catkeeper/static/css/main.51977696.chunk.css",
-  "main.js": "/Catkeeper/static/js/main.e49217ca.chunk.js",
-  "main.js.map": "/Catkeeper/static/js/main.e49217ca.chunk.js.map",
+  "main.css": "/Catkeeper/static/css/main.ec3533e9.chunk.css",
+  "main.js": "/Catkeeper/static/js/main.58e9cbb1.chunk.js",
+  "main.js.map": "/Catkeeper/static/js/main.58e9cbb1.chunk.js.map",
   "static/js/1.7dde4d61.chunk.js": "/Catkeeper/static/js/1.7dde4d61.chunk.js",
   "static/js/1.7dde4d61.chunk.js.map": "/Catkeeper/static/js/1.7dde4d61.chunk.js.map",
   "runtime~main.js": "/Catkeeper/static/js/runtime~main.4be56430.js",
   "runtime~main.js.map": "/Catkeeper/static/js/runtime~main.4be56430.js.map",
-  "static/css/main.51977696.chunk.css.map": "/Catkeeper/static/css/main.51977696.chunk.css.map",
-  "static/media/CatPath.css": "/Catkeeper/static/media/_ionicons_svg_md-add.9029975f.svg",
   "static/media/App.css": "/Catkeeper/static/media/brian-breeden-1296702-unsplash-min.b0688736.jpg",
+  "static/css/main.ec3533e9.chunk.css.map": "/Catkeeper/static/css/main.ec3533e9.chunk.css.map",
   "index.html": "/Catkeeper/index.html",
-  "precache-manifest.db1c0960e054db2454e39ec91586e0e6.js": "/Catkeeper/precache-manifest.db1c0960e054db2454e39ec91586e0e6.js",
+  "precache-manifest.f545c60ca1835c79070d2dc6060239a9.js": "/Catkeeper/precache-manifest.f545c60ca1835c79070d2dc6060239a9.js",
   "service-worker.js": "/Catkeeper/service-worker.js"
 }

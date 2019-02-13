@@ -4,27 +4,23 @@ self.__precacheManifest = [
     "url": "/Catkeeper/static/media/brian-breeden-1296702-unsplash-min.b0688736.jpg"
   },
   {
-    "revision": "9029975fcba35c972376396c12313ecc",
-    "url": "/Catkeeper/static/media/_ionicons_svg_md-add.9029975f.svg"
-  },
-  {
     "revision": "4be564302d2a3b4f987a",
     "url": "/Catkeeper/static/js/runtime~main.4be56430.js"
   },
   {
-    "revision": "e49217ca8422a7d95731",
-    "url": "/Catkeeper/static/js/main.e49217ca.chunk.js"
+    "revision": "58e9cbb16c0a4cfe27cc",
+    "url": "/Catkeeper/static/js/main.58e9cbb1.chunk.js"
   },
   {
     "revision": "7dde4d61e9a1085e4f4f",
     "url": "/Catkeeper/static/js/1.7dde4d61.chunk.js"
   },
   {
-    "revision": "e49217ca8422a7d95731",
-    "url": "/Catkeeper/static/css/main.51977696.chunk.css"
+    "revision": "58e9cbb16c0a4cfe27cc",
+    "url": "/Catkeeper/static/css/main.ec3533e9.chunk.css"
   },
   {
-    "revision": "822792abed11dad277df887f25a03bb7",
+    "revision": "a8adf031a811c7055df22fefdc10ff06",
     "url": "/Catkeeper/index.html"
   }
 ];
