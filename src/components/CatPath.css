@@ -51,7 +51,7 @@
 .catpath-list li.active:before {
   width: 30px;
   height: 30px;
-  background-image: url("../img/_ionicons_svg_md-paw.svg");
+  background-image: url("../img/_ionicons_svg_md-add.svg");
   background-size: cover;
   background-color: rgb(236, 232, 235);
   transform: rotate(180deg);
