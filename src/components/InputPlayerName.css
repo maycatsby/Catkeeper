@@ -1,21 +1,20 @@
 .playerName {
-  margin: 2% auto 0 auto;
+  margin: 4% auto 0 auto;
+}
+input {
+  font-family: inherit;
 }
 .playerName__input {
-  font-family: "Lato", sans-serif;
+  font-size: 21px;
+  font-family: inherit;
   width: 70%;
   box-sizing: border-box;
   border: none;
-  border-bottom: 1px solid rgba(65, 53, 16, 0.39);
+  border-bottom: 2px solid rgba(65, 53, 16, 0.39);
   background-color: transparent;
-  margin-bottom: 10px;
+  margin-bottom: 4%;
 }
 .playerName__input:focus {
   outline: none;
   background-color: rgba(65, 53, 16, 0.123);
-}
-.playerName__button {
-  border: none;
-  background-color: white;
-  padding: 2px;
 }

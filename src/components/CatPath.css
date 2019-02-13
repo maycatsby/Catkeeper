@@ -18,23 +18,25 @@
   text-transform: uppercase;
 }
 .catpath-list li:before {
-  width: 12px;
-  height: 12px;
+  width: 20px;
+  height: 20px;
   content: "";
   display: block;
   text-align: center;
   margin: 0 auto 10px auto;
   border-radius: 70%;
-  background-color: rgba(175, 166, 172, 0.911);
+  border: 2px solid rgba(175, 166, 172, 0.479);
+  background-color: rgba(236, 232, 235, 0.938);
   z-index: 20000000;
   position: relative;
   z-index: 20000;
 }
 .catpath-list li:after {
-  width: 2px;
+  width: 3px;
   height: 100%;
   content: "";
   position: absolute;
+
   background-color: rgba(175, 166, 172, 0.479);
   top: -100%;
   left: 50%;
@@ -47,14 +49,13 @@
 }
 
 .catpath-list li.active:before {
-  border: 1px solid rgba(211, 129, 188, 0.801);
-  width: 18px;
-  height: 18px;
+  width: 30px;
+  height: 30px;
   background-image: url("../img/_ionicons_svg_md-paw.svg");
   background-size: cover;
-  background-color: rgba(231, 230, 231, 0.479);
+  background-color: rgb(236, 232, 235);
   transform: rotate(180deg);
 }
 .catpath-list li.active + li:after {
-  background-color: rgba(211, 129, 188, 0.801);
+  background-color: rgba(0, 0, 0, 0.774);
 }

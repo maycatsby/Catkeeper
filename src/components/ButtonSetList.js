@@ -5,11 +5,16 @@ import ButtonSet from "./ButtonSet";
 
 const ButtonSetList = props => {
   const buttonName = [
-    { name: "Reset", action: props.reset },
-    { name: "Settings", action: props.settings }
+    { name: <ion-icon name="refresh" />, action: props.reset },
+    { name: <ion-icon name="settings" />, action: props.settings }
   ];
   const buttonList = buttonName.map((cur, index) => (
-    <ButtonSet btnName={cur.name} key={index} onClick={cur.action} />
+    <ButtonSet
+      btnName={cur.name}
+      btnType="btn-circle"
+      key={index}
+      onClick={cur.action}
+    />
   ));
 
   return <div>{buttonList}</div>;

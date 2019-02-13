@@ -27,15 +27,15 @@
 }
 .main-container__heading {
   color: white;
-  letter-spacing: 12px;
-  font-size: 35px;
+  letter-spacing: 15px;
+  font-size: 65px;
   font-weight: 300;
   margin: 4% auto 2% auto;
 }
 .main-container__heading--small {
   color: black;
   letter-spacing: 8px;
-  font-size: 16px;
+  font-size: 26px;
   margin: 2% auto 2% auto;
   text-transform: uppercase;
 }
@@ -52,14 +52,14 @@
       rgba(255, 255, 255, 0.034),
       rgba(70, 23, 42, 0.849)
     ),
-    url("../img/brian-breeden-1296702-unsplash.jpg");
+    url("../img/brian-breeden-1296702-unsplash-min.jpg");
   background-size: cover;
   background-position: bottom;
 }
 
 .main-container__panel__settings {
-  margin: 4% 8%;
-  width: 58%;
+  margin: 4% 7%;
+  width: 55%;
   background-color: rgba(255, 255, 255, 0.836);
   overflow: hidden;
   /*clip-path: polygon(0 0, 100% 0, 88% 74%, 94% 100%, 0 100%);*/

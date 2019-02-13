@@ -41,7 +41,11 @@ class inputPlayerName extends React.Component {
         <form className="playerName" onSubmit={e => e.preventDefault()}>
           {this.renderInputList()}
         </form>
-        <ButtonSet btnName="Start Game" onClick={this.onClick} />
+        <ButtonSet
+          btnName="Start Game"
+          btnType="btn-set"
+          onClick={this.onClick}
+        />
       </div>
     );
   }

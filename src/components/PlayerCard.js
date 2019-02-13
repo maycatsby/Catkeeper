@@ -18,7 +18,7 @@ const PlayerCard = ({ name, points, classNumber }) => {
       }}
     >
       <div
-        className={`player-card__active player-card__active--${classNumber}`}
+        className={`player-card__indicator player-card__indicator--${classNumber}`}
         style={{
           visibility: points.active === 1 ? " visible" : "hidden"
         }}

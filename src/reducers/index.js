@@ -56,6 +56,7 @@ const gameReducer = (
         el.score = 0;
         el.pathLength = action.payload.house;
         el.pawAmount = 0;
+        el.active = index === 0 ? 1 : 0;
         el.playerStatus = 0;
         return el;
       });

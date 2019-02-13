@@ -24,6 +24,7 @@ class ButtonPlayList extends React.Component {
         key={index}
         onClickArg={this.playerScore(cur.btnScore)}
         points={this.props.points}
+        btnType="btn-set"
       />
     ));
   }
