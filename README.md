@@ -9,8 +9,7 @@ Mini React aplication with React and Redux. Beta version of game - non dedicated
 Project is created with:
 * React: "^16.7.0"
 * Redux: "^4.0.1"
-* React-Redux": "^6.0.0",
-* HTML
+* React-Redux": "^6.0.0"
 * CSS
 	
 ## Setup
