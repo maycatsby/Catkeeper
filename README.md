@@ -3,7 +3,7 @@ Have a small break and try to get cat Frederick from the roof to the kitchen usi
 Game for 2 players.
 
 ## General info
-Mini React aplication with React and Redux. Beta version of game - non dedicated for mobile and small tablets.
+Mini aplication with React and Redux. Beta version of game - non dedicated for mobile and small tablets.
 	
 ## Technologies
 Project is created with:
